@@ -1,0 +1,25 @@
+.bg{
+    height: 100vh;
+    background-color: #1abc9c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.imageSize{
+    width: 200px;
+    margin: auto;
+}
+.h1Style{
+    font-size: 70px;
+}
+.pStyle{
+    font-size: 20px;
+}
+
+.shakl::after{
+    content: "";
+    width: 50px;
+    height: 3px;
+    background-color: #fff;
+}

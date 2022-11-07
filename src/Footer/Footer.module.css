@@ -1,0 +1,25 @@
+.bg{
+    background-color: #2C3E50;
+    color: aliceblue;
+}
+
+.iconSize{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    color: white;
+    
+}
+.iconSize:hover{
+    background: white;
+    color: black;
+}
+.footerBG{
+    background-color: #1a252f;
+    margin-bottom: 0 !important;
+}
